@@ -10,8 +10,6 @@ namespace DevCompanion
 {
     public class DevCompanionEditorWindow : EditorWindow
     {
-        private const string MODEL = "text-davinci-003";
-        
         [MenuItem("Window/Dev Companion")]
         private static void OpenCompanion()
         {
